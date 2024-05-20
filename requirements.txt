@@ -1,0 +1,17 @@
+# Essential packages
+jupyterlab==4.2
+pytest==8.2
+pandas==2.2
+import pyarrow==16.1
+openpyxl==3.1
+matplotlib==3.9
+
+# Dark theme
+jupyterlab_theme_solarized_dark==3.0
+
+# black extension
+jupyter-black==0.3
+
+# git extension
+jupyterlab-git==0.50
+
